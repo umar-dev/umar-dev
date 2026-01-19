@@ -1,16 +1,16 @@
 # Hi there, I'm Umar 👋 (umar-dev)
 
-> Software engineer • Open-source contributor • Lifelong learner  
+> Senior Software engineer • Lifelong learner • Numismatics • Researcher (Financial and Indentity Systems)  
 > Last updated: 2026-01-13
 
 [![GitHub followers](https://img.shields.io/github/followers/umar-dev?label=Follow&style=social)](https://github.com/umar-dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter?style=social)](https://twitter.com/your_twitter)
+
 
 ---
 
 About
 -----
-I build practical, well-tested software and enjoy making complex systems simple. I contribute to open-source projects, write about engineering, and mentor other developers when I can.
+I build practical, well-tested software and enjoy making complex systems easier to use. I contribute to open-source projects, write about engineering, and mentor other developers whenever possible.
 
 If you'd like to get in touch, check the Contact section below.
 
@@ -18,7 +18,9 @@ Tech & Tools
 ------------
 - Languages: JavaScript / TypeScript, Python, Go, Java
 - Web: React, Next.js, Node.js, Express
-- DevOps: Docker, Kubernetes, GitHub Actions, Terraform
+- DevOps: Docker, Kubernetes, GitHub Actions,
+- IAC - Terraform
+- Observability: ELK Stack, Better Stack, Open Telemetry 
 - Databases: PostgreSQL, MongoDB, Redis
 - Testing & Quality: Jest, Cypress, ESLint, Prettier
 - Cloud: AWS, GCP
@@ -45,4 +47,4 @@ Get in touch
 ------------
 - Email: uumar92@gmail.com
 
-- LinkedIn: [Your Name](https://www.linkedin.com/in/umarfrq)
+- LinkedIn: [Umar Farooq](https://www.linkedin.com/in/umarfrq)
