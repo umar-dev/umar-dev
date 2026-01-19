@@ -1,6 +1,6 @@
 # Hi there, I'm Umar 👋 (umar-dev)
 
-> Senior Software engineer • Lifelong learner • Numismatics • Researcher (Financial and Indentity Systems)  
+> Senior Software engineer • Lifelong learner • Numismatics • Researcher (Financial and Identity Systems)  
 > Last updated: 2026-01-13
 
 [![GitHub followers](https://img.shields.io/github/followers/umar-dev?label=Follow&style=social)](https://github.com/umar-dev)
